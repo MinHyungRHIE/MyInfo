@@ -17,7 +17,6 @@
 ## Private
 - [RHIE-coder/Private.Hyperledger-Indy](https://github.com/RHIE-coder/Private.Hyperledger-Indy)<br>
 - [RHIE-coder/Private.Hyperledger-Fabric](https://github.com/RHIE-coder/Private.Hyperledger-Fabric)<br>
-- [RHIE-coder/EduRecord.AI-Learning](https://github.com/RHIE-coder/EduRecord.AI-Learning)<br>
 
 <hr>
 
@@ -81,6 +80,7 @@
 ## Storage
 
 - [RHIE-coder/Storage.IDE-Shortcut](https://github.com/RHIE-coder/Storage.IDE-Shortcut)<br>
+- [RHIE-coder/EduRecord.AI-Learning](https://github.com/RHIE-coder/EduRecord.AI-Learning) `Private`<br>
 
 <hr>
 
