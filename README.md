@@ -52,6 +52,7 @@
 - [RHIE-coder/EduRecord.SQLD](https://github.com/RHIE-coder/EduRecord.SQLD)<br>
 - [RHIE-coder/EduRecord.Industrial-Security](https://github.com/RHIE-coder/EduRecord.Industrial-Security)<br>
 - [RHIE-coder/EduRecord.Trends](https://github.com/RHIE-coder/EduRecord.Trends)<br>
+- [RHIE-coder/EduRecord.AI-Learning](https://github.com/RHIE-coder/EduRecord.AI-Learning) `Private`<br>
 
 
 <hr>
@@ -69,6 +70,7 @@
 - [RHIE-coder/Project.CarInfoSharing](https://github.com/RHIE-coder/Project.CarInfoSharing)<br>
 - [RHIE-coder/Project.ajou-univ-ilab](https://github.com/RHIE-coder/Project.ajou-univ-ilab)
 
+
 <hr>
 
 ## Portfolio
@@ -80,7 +82,6 @@
 ## Storage
 
 - [RHIE-coder/Storage.IDE-Shortcut](https://github.com/RHIE-coder/Storage.IDE-Shortcut)<br>
-- [RHIE-coder/EduRecord.AI-Learning](https://github.com/RHIE-coder/EduRecord.AI-Learning) `Private`<br>
 
 <hr>
 
