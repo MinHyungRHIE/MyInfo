@@ -52,7 +52,6 @@
 - [RHIE-coder/EduRecord.SQLD](https://github.com/RHIE-coder/EduRecord.SQLD)<br>
 - [RHIE-coder/EduRecord.Industrial-Security](https://github.com/RHIE-coder/EduRecord.Industrial-Security)<br>
 - [RHIE-coder/EduRecord.Trends](https://github.com/RHIE-coder/EduRecord.Trends)<br>
-- [RHIE-coder/EduRecord.AI-Learning](https://github.com/RHIE-coder/EduRecord.AI-Learning) `Private`<br>
 
 
 <hr>
