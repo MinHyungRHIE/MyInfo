@@ -15,59 +15,59 @@
 <hr>
 
 ## Private
-- [RHIE-coder/Private.Hyperledger-Indy](https://github.com/RHIE-coder/Private.Hyperledger-Indy)<br>
-- [RHIE-coder/Private.Hyperledger-Fabric](https://github.com/RHIE-coder/Private.Hyperledger-Fabric)<br>
+- [Private.Hyperledger-Indy](https://github.com/RHIE-coder/Private.Hyperledger-Indy)<br>
+- [Private.Hyperledger-Fabric](https://github.com/RHIE-coder/Private.Hyperledger-Fabric)<br>
 
 <hr>
 
 ## Playground
-- [RHIE-coder/Playground.Java](https://github.com/RHIE-coder/Playground.Java)<br>
-- [RHIE-coder/Playground.JS](https://github.com/RHIE-coder/Playground.JS)<br>
-- [RHIE-coder/Playground.Shell-Script](https://github.com/RHIE-coder/Playground.Shell-Script)<br>
-- [RHIE-coder/Playground.Github](https://github.com/RHIE-coder/Playground.Github)<br>
-- [RHIE-coder/Playground.JavaSE8](https://github.com/RHIE-coder/Playground.JavaSE8)<br>
-- [RHIE-coder/Playground.Python](https://github.com/RHIE-coder/Playground.Python)<br>
-- [RHIE-coder/Playground.HTML-CSS](https://github.com/RHIE-coder/Playground.HTML-CSS)<br>
-- [RHIE-coder/Playground.AI](https://github.com/RHIE-coder/Playground.AI)<br>
-- [RHIE-coder/Playground.NodeJS](https://github.com/RHIE-coder/Playground.NodeJS)<br>
-- [RHIE-coder/Playground.IBM-Cloud-Start](https://github.com/RHIE-coder/Playground.IBM-Cloud-Start)<br>
-- [RHIE-coder/Playground.Hyperledger-Indy](https://github.com/RHIE-coder/Playground.Hyperledger-Indy)<br>
-- [RHIE-coder/Playground.IBM-CLOUDERS](https://github.com/RHIE-coder/Playground.IBM-CLOUDERS)<br>
-- [RHIE-coder/Playground.React-Stack](https://github.com/RHIE-coder/Playground.React-Stack)<br>
-- [RHIE-coder/Playground.Hyperledger-Fabric](https://github.com/RHIE-coder/Playground.Hyperledger-Fabric)<br>
-- [RHIE-coder/Playground.Golang](https://github.com/RHIE-coder/Playground.Golang)<br>
-- [RHIE-coder/Playground.C-Lang](https://github.com/RHIE-coder/Playground.C-Lang)<br>
-- [RHIE-coder/Playground.Spring](https://github.com/RHIE-coder/Playground.Spring)<br>
-- [RHIE-coder/Playground.OAuth2.0](https://github.com/RHIE-coder/Playground.OAuth2.0)<br>
-- [RHIE-coder/Playground.Processing](https://github.com/RHIE-coder/Playground.Processing)<br>
+- [Playground.Java](https://github.com/RHIE-coder/Playground.Java)<br>
+- [Playground.JS](https://github.com/RHIE-coder/Playground.JS)<br>
+- [Playground.Shell-Script](https://github.com/RHIE-coder/Playground.Shell-Script)<br>
+- [Playground.Github](https://github.com/RHIE-coder/Playground.Github)<br>
+- [Playground.JavaSE8](https://github.com/RHIE-coder/Playground.JavaSE8)<br>
+- [Playground.Python](https://github.com/RHIE-coder/Playground.Python)<br>
+- [Playground.HTML-CSS](https://github.com/RHIE-coder/Playground.HTML-CSS)<br>
+- [Playground.AI](https://github.com/RHIE-coder/Playground.AI)<br>
+- [Playground.NodeJS](https://github.com/RHIE-coder/Playground.NodeJS)<br>
+- [Playground.IBM-Cloud-Start](https://github.com/RHIE-coder/Playground.IBM-Cloud-Start)<br>
+- [Playground.Hyperledger-Indy](https://github.com/RHIE-coder/Playground.Hyperledger-Indy)<br>
+- [Playground.IBM-CLOUDERS](https://github.com/RHIE-coder/Playground.IBM-CLOUDERS)<br>
+- [Playground.React-Stack](https://github.com/RHIE-coder/Playground.React-Stack)<br>
+- [Playground.Hyperledger-Fabric](https://github.com/RHIE-coder/Playground.Hyperledger-Fabric)<br>
+- [Playground.Golang](https://github.com/RHIE-coder/Playground.Golang)<br>
+- [Playground.C-Lang](https://github.com/RHIE-coder/Playground.C-Lang)<br>
+- [Playground.Spring](https://github.com/RHIE-coder/Playground.Spring)<br>
+- [Playground.OAuth2.0](https://github.com/RHIE-coder/Playground.OAuth2.0)<br>
+- [Playground.Processing](https://github.com/RHIE-coder/Playground.Processing)<br>
 
 <hr>
 
 ## EduRecord
-- [RHIE-coder/EduRecord.BlockChain-Ethereum-Beginning](https://github.com/RHIE-coder/EduRecord.BlockChain-Ethereum-Beginning)<br>
-- [RHIE-coder/EduRecord.BlockChain-Hyperledger-Beginning](https://github.com/RHIE-coder/EduRecord.BlockChain-Hyperledger-Beginning)<br>
-- [RHIE-coder/EduRecord.BlockChain-Business](https://github.com/RHIE-coder/EduRecord.BlockChain-Business)<br>
-- [RHIE-coder/EduRecord.English](https://github.com/RHIE-coder/EduRecord.English)<br>
-- [RHIE-coder/EduRecord.TechInfo](https://github.com/RHIE-coder/EduRecord.TechInfo)<br>
-- [RHIE-coder/EduRecord.SQLD](https://github.com/RHIE-coder/EduRecord.SQLD)<br>
-- [RHIE-coder/EduRecord.Industrial-Security](https://github.com/RHIE-coder/EduRecord.Industrial-Security)<br>
-- [RHIE-coder/EduRecord.Trends](https://github.com/RHIE-coder/EduRecord.Trends)<br>
+- [EduRecord.BlockChain-Ethereum-Beginning](https://github.com/RHIE-coder/EduRecord.BlockChain-Ethereum-Beginning)<br>
+- [EduRecord.BlockChain-Hyperledger-Beginning](https://github.com/RHIE-coder/EduRecord.BlockChain-Hyperledger-Beginning)<br>
+- [EduRecord.BlockChain-Business](https://github.com/RHIE-coder/EduRecord.BlockChain-Business)<br>
+- [EduRecord.English](https://github.com/RHIE-coder/EduRecord.English)<br>
+- [EduRecord.TechInfo](https://github.com/RHIE-coder/EduRecord.TechInfo)<br>
+- [EduRecord.SQLD](https://github.com/RHIE-coder/EduRecord.SQLD)<br>
+- [EduRecord.Industrial-Security](https://github.com/RHIE-coder/EduRecord.Industrial-Security)<br>
+- [EduRecord.Trends](https://github.com/RHIE-coder/EduRecord.Trends)<br>
 
 
 <hr>
 
 ## Project
-- [RHIE-coder/Project.BucketClass](https://github.com/RHIE-coder/Project.BucketClass)<br>
-   - [RHIE-coder/Project.BucketClass.BC-front](https://github.com/RHIE-coder/Project.BucketClass.BC-front)<br>
-   - [RHIE-coder/Project.BucketClass.BC-back](https://github.com/RHIE-coder/Project.BucketClass.BC-back)<br>
-- [RHIE-coder/Project.HLF](https://github.com/RHIE-coder/Project.HLF)<br>
-- [RHIE-coder/Project.Pretzel](https://github.com/RHIE-coder/Project.Pretzel)<br>
-- [RHIE-coder/Project.DeepFakeDetection](https://github.com/RHIE-coder/Project.DeepFakeDetection)<br>
-- [RHIE-coder/Project.FlowerRecognition](https://github.com/RHIE-coder/Project.FlowerRecognition)<br>
-- [RHIE-coder/Project.PC-Room](https://github.com/RHIE-coder/Project.PC-Room)<br>
-- [RHIE-coder/Project.2020-CALL-FOR-CODE](https://github.com/RHIE-coder/Project.2020-CALL-FOR-CODE)<br>
-- [RHIE-coder/Project.CarInfoSharing](https://github.com/RHIE-coder/Project.CarInfoSharing)<br>
-- [RHIE-coder/Project.ajou-univ-ilab](https://github.com/RHIE-coder/Project.ajou-univ-ilab)
+- [Project.BucketClass](https://github.com/RHIE-coder/Project.BucketClass)<br>
+   - [Project.BucketClass.BC-front](https://github.com/RHIE-coder/Project.BucketClass.BC-front)<br>
+   - [Project.BucketClass.BC-back](https://github.com/RHIE-coder/Project.BucketClass.BC-back)<br>
+- [Project.HLF](https://github.com/RHIE-coder/Project.HLF)<br>
+- [Project.Pretzel](https://github.com/RHIE-coder/Project.Pretzel)<br>
+- [Project.DeepFakeDetection](https://github.com/RHIE-coder/Project.DeepFakeDetection)<br>
+- [Project.FlowerRecognition](https://github.com/RHIE-coder/Project.FlowerRecognition)<br>
+- [Project.PC-Room](https://github.com/RHIE-coder/Project.PC-Room)<br>
+- [Project.2020-CALL-FOR-CODE](https://github.com/RHIE-coder/Project.2020-CALL-FOR-CODE)<br>
+- [Project.CarInfoSharing](https://github.com/RHIE-coder/Project.CarInfoSharing)<br>
+- [Project.ajou-univ-ilab](https://github.com/RHIE-coder/Project.ajou-univ-ilab)
 
 
 <hr>
@@ -80,19 +80,19 @@
 
 ## Storage
 
-- [RHIE-coder/Storage.IDE-Shortcut](https://github.com/RHIE-coder/Storage.IDE-Shortcut)<br>
+- [Storage.IDE-Shortcut](https://github.com/RHIE-coder/Storage.IDE-Shortcut)<br>
 
 <hr>
 
 ## Lecture
 
-- [RHIE-coder/Lecture.Prepare.Java](https://github.com/RHIE-coder/Lecture.Prepare.Java)<br>
-- [RHIE-coder/Lecture.computer-programming-practice](https://github.com/RHIE-coder/Lecture.computer-programming-practice)<br>
+- [Lecture.Prepare.Java](https://github.com/RHIE-coder/Lecture.Prepare.Java)<br>
+- [Lecture.computer-programming-practice](https://github.com/RHIE-coder/Lecture.computer-programming-practice)<br>
 
 <hr>
 
 ## Algorithm
 
-- [RHIE-coder/Algorithm.SW-Expert-Academy](https://github.com/RHIE-coder/Algorithm.SW-Expert-Academy)<br>
+- [Algorithm.SW-Expert-Academy](https://github.com/RHIE-coder/Algorithm.SW-Expert-Academy)<br>
 
 <hr>
