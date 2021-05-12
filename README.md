@@ -40,6 +40,7 @@
 - [Playground.Spring](https://github.com/RHIE-coder/Playground.Spring)<br>
 - [Playground.OAuth2.0](https://github.com/RHIE-coder/Playground.OAuth2.0)<br>
 - [Playground.Processing](https://github.com/RHIE-coder/Playground.Processing)<br>
+- [Playground.uPort](https://github.com/RHIE-coder/Playground.uPort)<br>
 
 <hr>
 
