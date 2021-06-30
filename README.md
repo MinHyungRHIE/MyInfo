@@ -17,6 +17,7 @@
 ## Private
 - [Private.Hyperledger-Indy](https://github.com/RHIE-coder/Private.Hyperledger-Indy)<br>
 - [Private.Hyperledger-Fabric](https://github.com/RHIE-coder/Private.Hyperledger-Fabric)<br>
+- [Private.AutoSmartStore](https://github.com/RHIE-coder/Private.AutoSmartStore)<br>
 
 <hr>
 
