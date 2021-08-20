@@ -43,6 +43,7 @@
 - [Playground.Processing](https://github.com/RHIE-coder/Playground.Processing)<br>
 - [Playground.uPort](https://github.com/RHIE-coder/Playground.uPort)<br>
 - [Playground.Electron](https://github.com/RHIE-coder/Playground.Electron)<br>
+- [Playground.Arduino](https://github.com/RHIE-coder/Playground.Arduino)<br>
 
 <hr>
 
