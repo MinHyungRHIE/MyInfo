@@ -44,6 +44,7 @@
 - [Playground.uPort](https://github.com/RHIE-coder/Playground.uPort)<br>
 - [Playground.Electron](https://github.com/RHIE-coder/Playground.Electron)<br>
 - [Playground.Arduino](https://github.com/RHIE-coder/Playground.Arduino)<br>
+- [Playground.ChromeExtenstions](https://github.com/RHIE-coder/Playground.ChromeExtenstions)<br>
 
 <hr>
 
