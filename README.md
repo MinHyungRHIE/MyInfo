@@ -96,6 +96,8 @@
 - [Lecture.Prepare.Java](https://github.com/RHIE-coder/Lecture.Prepare.Java)<br>
 - [Lecture.Prepare.JavaScript](https://github.com/RHIE-coder/Lecture.Prepare.JavaScript)<br>
 - [Lecture.Prepare.Python](https://github.com/RHIE-coder/Lecture.Prepare.Python)<br>
+- [Lecture.Prepare.Blockchain](https://github.com/RHIE-coder/Lecture.Prepare.Blockchain)<br>
+- [Lecture.Prepare.Front](https://github.com/RHIE-coder/Lecture.Prepare.Front)<br>
 - [Lecture.computer-programming-practice](https://github.com/RHIE-coder/Lecture.computer-programming-practice)<br>
 
 <hr>
