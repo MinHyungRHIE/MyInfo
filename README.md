@@ -94,6 +94,8 @@
 ## Lecture
 
 - [Lecture.Prepare.Java](https://github.com/RHIE-coder/Lecture.Prepare.Java)<br>
+- [Lecture.Prepare.JS](https://github.com/RHIE-coder/Lecture.Prepare.JS)<br>
+- [Lecture.Prepare.Python](https://github.com/RHIE-coder/Lecture.Prepare.Python)<br>
 - [Lecture.computer-programming-practice](https://github.com/RHIE-coder/Lecture.computer-programming-practice)<br>
 
 <hr>
